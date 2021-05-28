@@ -1,8 +1,8 @@
 /**  @file
-* *  @author Янгуляева А.Р
-* *  @version 1.0.0
-* *  @date 29.05.2021
-* *  @brief Заголовочный файл для модуля modAlphaCipher
+*    @author Муромская Е.А
+*    @version 0.1.0
+*    @date 30.05.2021
+*    @brief Заголовочный файл для модуля modAlphaCipher
 */
 #pragma once
 #include <vector>
@@ -15,8 +15,8 @@
 using namespace std;
 
 /** @class modAlphaCipher
- ** @author Янгуляева А.Р
- ** @date 29.05.2021
+ **  @author Муромская Е.А
+ ** @date 30.05.2021
  ** @file modAlphaCipher.h
  ** @brief Шифрование методом Маршрутной перестановки
  ** @detalies Для зашифрования и расшифрования сообщения предназначены методы encrypt и decrypt. Текст на обработку передается до выбора опреации. Доступна отмена выполнения программы.
